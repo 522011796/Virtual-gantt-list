@@ -32,5 +32,5 @@ export const common = {
 
 export const commonConfig = {
   manufacturer: 'Netmoon',
-  baseUrl: 'https://api.iot.9451.com.cn',
+  baseUrl: 'https://xxxxxxxx',
 };
