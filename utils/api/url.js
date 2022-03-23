@@ -31,6 +31,6 @@ export const common = {
 };
 
 export const commonConfig = {
-  manufacturer: 'Netmoon',
+  manufacturer: 'xxxxxx',
   baseUrl: 'https://xxxxxxxx',
 };
